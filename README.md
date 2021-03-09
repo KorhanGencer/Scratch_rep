@@ -1,2 +1,2 @@
 # Scratch_rep
-Scratch project files
+# The scratch projects will be saved here. 
